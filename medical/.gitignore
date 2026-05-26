@@ -45,3 +45,5 @@ Archive/
 MEDICAL_CONTENT_SOLU*
 frontend_old
 .srt/
+
+!aws/aws-bedrock/medical/infra-cdk/lib/
